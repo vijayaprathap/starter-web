@@ -18,3 +18,7 @@ another line is added here.
 This is in server
 
 this is in local repo
+
+this is in staging are
+
+this is in working area
