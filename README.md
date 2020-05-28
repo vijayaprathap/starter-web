@@ -8,6 +8,8 @@ this is simple website project to demonstrate git.
 
 Sample website with plenty of files for demos
 
+another line is added here.
+
 ## How to contribute
 
 ## deployment
