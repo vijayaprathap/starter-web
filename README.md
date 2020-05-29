@@ -22,3 +22,6 @@ this is in local repo
 this is in staging are
 
 this is in working area
+
+### copyright
+2014 copyright
