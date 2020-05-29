@@ -28,4 +28,4 @@ this is in staging are
 this is in working area
 
 ### copyright
-2014 copyright
+2014 copyright. All rights reserved.
