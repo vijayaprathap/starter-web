@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    jason bourge jason@jason.com twitter.com/jason
 
 # THANKS
 
