@@ -12,6 +12,8 @@ another line is added here.
 
 ## How to contribute
 
+Please fork this repository
+
 ## deployment
 
 
